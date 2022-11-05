@@ -3,4 +3,4 @@ Simple projects in c
 
 ## Projects
 
-- Calculator
+![Calculator](https://github.com/FranciscoAraujo2/C-Projects/tree/main/Calculator)
